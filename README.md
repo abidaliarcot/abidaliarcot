@@ -145,14 +145,6 @@ I make elegantly professional 💻⎈🐳 **Distributed Infrastructure / Kuberne
 * ⛵   Encouraging people for open source collaborations.
 * ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://halfrost.com/)(Cumulative 7.67 million PV / 4.31 million UV).
 
-<details>
-  <summary>Some other achievements about me~e~e</summary>
- 
-
-* 💝   Be proud of Stanford. 🧸 Proud Stanford Cardinal. Die Luft der Freiheit weht. 
-* 💖   Be proud of CMU. 🐾 Proud Carnegie Mellon Tartan. My heart is in the work. 
-* 🎉   Professional Membership of ACM / IEEE / IEEE-CS / CCF.
-* 🍎   Apple Developer.👨🏻‍💻 & Apple Teacher.🤪
 
 <!-- Language and Tools -->
 
