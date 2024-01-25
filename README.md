@@ -147,7 +147,7 @@ I make elegantly professional 💻⎈🐳 **Distributed Infrastructure / Kuberne
 
 <details>
   <summary>Some other achievements about me~e~e</summary>
-  <br>
+ 
 
 * 💝   Be proud of Stanford. 🧸 Proud Stanford Cardinal. Die Luft der Freiheit weht. 
 * 💖   Be proud of CMU. 🐾 Proud Carnegie Mellon Tartan. My heart is in the work. 
