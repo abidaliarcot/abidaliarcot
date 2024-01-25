@@ -199,6 +199,6 @@ I make elegantly professional 💻⎈🐳 **Distributed Infrastructure / Kuberne
 
 📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300">
 <img src="https://github.com/abidaliarcot/abidaliarcot/blob/main/cat.gif" width="300">
-<img src="https://github.com/abidaliarcot/abidaliarcot/blob/main/cat.gif" width="300">
+<img src="https://github.com/abidaliarcot/abidaliarcot/blob/main/cat_typing.gif" width="300">
 
   
